@@ -1,1 +1,37 @@
 # Python-full-stack-trainee
+# Python
+
+## 📅 Day 1 – Introduction to Python
+
+Started my Python learning journey by understanding Python's features, applications, and syntax.
+Learned how to write and execute basic Python programs.
+Explored why Python is widely used in software development, automation, and data science.
+Built a strong foundation for the upcoming learning journey.
+
+## 📅 Day 2 – Data Types, Operators & Strings
+
+Learned Python data types, operators, and string fundamentals with practical examples.
+Explored arithmetic, logical, comparison, assignment, membership, and identity operators.
+Practiced string indexing, slicing, and commonly used string methods.
+Strengthened my understanding of Python's core concepts.
+
+## 📅 Day 3 – Strings, Lists & Tuples
+
+Explored advanced string methods and built-in functions in Python.
+Learned list operations, tuple concepts, and the difference between mutable and immutable data types.
+Practiced list methods like append(), extend(), pop(), remove(), and insert().
+Improved my coding skills through hands-on exercises.
+
+## 📅 Day 4 – Sets & Dictionaries
+
+Learned how Python uses sets and dictionaries to store and organize data efficiently.
+Practiced dictionary methods such as keys(), values(), items(), clear(), and update().
+Explored set operations including union, intersection, and symmetric difference.
+Gained confidence in working with Python collection data types.
+
+## 📅 Day 5 – Type Conversions
+
+Learned how to convert data between different Python data types.
+Practiced conversions between int, float, string, list, tuple, and dictionary.
+Explored Python's built-in conversion functions like int(), float(), str(), list(), and tuple().
+Strengthened my understanding of handling and transforming data in Python.
