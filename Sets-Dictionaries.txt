@@ -1,0 +1,125 @@
+Dictionaries
+------------
+---> dict is a key : value pair separated by :, and keys are unique
+---> in the place of keys we have use immutable datatypes...
+ex:details = {"name":"lohitha",1:"number",(6,7):[1,2]}
+   print(details)
+
+methods
+-------
+1.keys()
+2.value()
+3.items()
+4.clear()
+5.update()
+
+1.key()--> used to get all the keys from the dic
+syntax:variable_name.keys()
+
+2.values()--->used to get all the values from the dic
+syntax:variable_name.values()
+
+3.items()-->used to get both keys and values ina pair from the dic
+syntax:variable_name.items()
+
+ex: details = {"name":"lohi",
+           "age":12,
+           "gender":"female"}
+    print(details.keys())
+    print(details.values())
+    print(details.items())
+
+4.clear()---> clear all the dic
+syntax:varible_name.clear()
+ex:details = {"name":"lohi",
+           "age":12,
+           "gender":"female"}
+   details.clear()
+   print(details)
+
+5.update()---> this is used to the new values to the same keys and if any key pair is not the dic it can update key pair also ..
+syntax:varible_name.update()
+ex:details = {"name":"lohi",
+           "age":12,
+           "gender":"female"}
+   details.update({"name":"lilly"})
+   details.update({"age":"21"})
+   details.update({"no":"123456789"})
+   print(details)
+
+
+Set   
+---
+---> set is a collection unordered elements that are separtaed by ,
+---> set is mutable
+---> can remove duplicate value itself...
+ex: go = {1,2,5,3,4,2}
+    print(go)
+
+methods
+-------
+1.union()
+2.intersection()
+3.symmetric difference ()
+4.add()
+5.remove()
+6.pop()
+7.discard()
+
+
+1.union()(|)---> combine the elements from both set...
+syntax: set_1.union(set_2)
+ex:go = {1,2,5,3,4,2}
+   so = {6,8,7}
+   print(go | so)
+   print(go.union(so))
+
+
+2.intersection()(&)--->common element from the both sets 
+syntax:set_1.intersection(set_2)
+ex:go = {1,2,5,3,4,2}
+   so = {6,8,7}
+   print(go & so)
+   print(go.intersection(so))
+
+
+3.symmetric difference()(^)---> all different elements from both sets..
+syntax:set_1.symmetric_difference(set_2)
+ex:go = {1,2,5,3,4,2}
+   so = {6,8,7}
+   print(go ^ so)
+   print(go.symmetric_difference(so))
+
+4.add()---> used to new elements into set
+ex:go = {1,2,5,3,4,2}
+   go.add(5)
+   print(go)
+
+
+5.remove()--->usedd to delete elements from set based on element...
+ex:go = {1,2,5,3,4,2}
+   go.remove(5)
+   print(go)
+
+
+6.pop()--->
+ex:go = {1,2,3,4,5}
+   go.pop()
+   print(go)
+
+   
+7.discard()--->
+ex:go = {1,2,3,4,5}
+   go.dicard(4)
+   print(go)
+
+
+
+
+
+
+
+
+
+
+         
