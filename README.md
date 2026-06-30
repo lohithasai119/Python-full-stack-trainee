@@ -8,14 +8,14 @@ Learned how to write and execute basic Python programs.
 Explored why Python is widely used in software development, automation, and data science.
 Built a strong foundation for the upcoming learning journey.
 
-## 📅 Day 2 – Data Types, Operators & Strings
+## 📅 Day 2 – Operators
 
 Learned Python data types, operators, and string fundamentals with practical examples.
 Explored arithmetic, logical, comparison, assignment, membership, and identity operators.
 Practiced string indexing, slicing, and commonly used string methods.
 Strengthened my understanding of Python's core concepts.
 
-## 📅 Day 3 – Strings, Lists & Tuples
+## 📅 Day 3 – Data Types, Strings, Lists & Tuples
 
 Explored advanced string methods and built-in functions in Python.
 Learned list operations, tuple concepts, and the difference between mutable and immutable data types.
