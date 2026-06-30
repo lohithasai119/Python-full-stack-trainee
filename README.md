@@ -1,6 +1,7 @@
 # Python-full-stack-trainee
-# Python
+Welcome to my 30 Days of Python Learning journey! 🚀 This repository showcases my daily progress, coding exercises, and practice programs as I learn Python from basics…..
 
+# Python
 ## 📅 Day 1 – Introduction to Python
 
 Started my Python learning journey by understanding Python's features, applications, and syntax.
