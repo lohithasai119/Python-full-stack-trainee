@@ -1,5 +1,5 @@
 # Python-full-stack-trainee
-Welcome to my 30 Days of Python Learning journey! 🚀 This repository showcases my daily progress, coding exercises, and practice programs as I learn Python from basics…..
+#Welcome to my 30 Days of Python Learning journey! 🚀 This repository showcases my daily progress, coding exercises, and practice    programs as I learn Python from basics…..
 
 # Python
 ## 📅 Day 1 – Introduction to Python
@@ -43,3 +43,10 @@ Learned how to take user input in Python using the `input()` function.
 Practiced accepting different data types such as integers, floats, strings, lists, and tuples.
 Explored `eval()`, f-strings, and `%` formatting for creating dynamic and user-friendly output.
 Strengthened my understanding of user interaction and input handling in Python programs.
+
+## 📅 Day 7 – Conditional Statements & Loops
+
+Learned Python decision-making using `if`, `if-else`, `nested if`, and `elif` statements(conditional statements).
+Explored `for` and `while` loops along with Control statements `break`, `continue`, `pass`, `range()`, and the `assert` keyword.
+Practiced solving real-world problems such as checking vowels, finding the largest number, and generating even numbers.
+Strengthened my logical thinking and programming skills through hands-on coding exercises.
