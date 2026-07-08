@@ -71,3 +71,10 @@ Learned how to create reusable code using Python functions and explored built-in
 Practiced different types of arguments, variable scope, the `return` statement, and recursive functions.
 Understood the concepts of global and local variables, along with passing arguments to functions.
 Strengthened my programming skills by writing modular and efficient Python code.
+
+## 📅 Day 11 – Lambda Functions & Comprehensions
+
+Learned how to write concise and efficient code using Lambda (Anonymous) Functions.
+Practiced filtering data with the `filter()` function and explored List and Dictionary Comprehensions.
+Understood how comprehensions simplify data processing and improve code readability.
+Enhanced my Python skills by writing cleaner, shorter, and more efficient programs.
