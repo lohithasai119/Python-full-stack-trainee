@@ -78,3 +78,10 @@ Learned how to write concise and efficient code using Lambda (Anonymous) Functio
 Practiced filtering data with the `filter()` function and explored List and Dictionary Comprehensions.
 Understood how comprehensions simplify data processing and improve code readability.
 Enhanced my Python skills by writing cleaner, shorter, and more efficient programs.
+
+## 📅 Day 12 – Problem Solving Using Functions
+
+Applied Python functions to solve real-world programming problems in a modular and reusable way.
+Implemented function-based programs for removing duplicates, prime numbers, Armstrong numbers, perfect numbers, Fibonacci series, and string operations.
+Practiced passing arguments, organizing code, and improving program readability.
+Enhanced my problem-solving skills by combining functions with loops and conditional statements.
