@@ -85,3 +85,10 @@ Applied Python functions to solve real-world programming problems in a modular a
 Implemented function-based programs for removing duplicates, prime numbers, Armstrong numbers, perfect numbers, Fibonacci series, and string operations.
 Practiced passing arguments, organizing code, and improving program readability.
 Enhanced my problem-solving skills by combining functions with loops and conditional statements.
+
+## 📅 Day 13 – Generators in Python
+
+Learned how Python Generators produce values one at a time using the `yield` keyword.
+Explored the working of generators, `next()` function, Generator Expressions, and the `StopIteration` exception.
+Compared generators with normal functions to understand memory efficiency and execution flow.
+Strengthened my understanding of lazy evaluation and writing optimized Python programs.
