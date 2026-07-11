@@ -86,17 +86,16 @@ Implemented function-based programs for removing duplicates, prime numbers, Arms
 Practiced passing arguments, organizing code, and improving program readability.
 Enhanced my problem-solving skills by combining functions with loops and conditional statements.
 
-## 📅 Day 14 – Modules in Python
-
-Learned how Python modules help organize and reuse code efficiently.
-Explored User-Defined Modules and Built-in Modules such as `math`, `os`, `sys`, and `random`.
-Practiced importing modules, using aliases, and accessing functions in different ways.
-Strengthened my understanding of modular programming and writing clean, maintainable Python code.
-
-
 ## 📅 Day 13 – Generators in Python
 
 Learned how Python Generators produce values one at a time using the `yield` keyword.
 Explored the working of generators, `next()` function, Generator Expressions, and the `StopIteration` exception.
 Compared generators with normal functions to understand memory efficiency and execution flow.
 Strengthened my understanding of lazy evaluation and writing optimized Python programs.
+
+## 📅 Day 14 – Modules in Python
+
+Learned how Python modules help organize and reuse code efficiently.
+Explored User-Defined Modules and Built-in Modules such as `math`, `os`, `sys`, and `random`.
+Practiced importing modules, using aliases, and accessing functions in different ways.
+Strengthened my understanding of modular programming and writing clean, maintainable Python code.
