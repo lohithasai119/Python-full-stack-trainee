@@ -93,6 +93,13 @@ Explored the working of generators, `next()` function, Generator Expressions, an
 Compared generators with normal functions to understand memory efficiency and execution flow.
 Strengthened my understanding of lazy evaluation and writing optimized Python programs.
 
+## 📅 Day 14 – Modules in Python
+
+Learned how Python modules help organize and reuse code efficiently.
+Explored User-Defined Modules and Built-in Modules such as `math`, `os`, `sys`, and `random`.
+Practiced importing modules, using aliases, and accessing functions in different ways.
+Strengthened my understanding of modular programming and writing clean, maintainable Python code.
+
 ## 📅 Day 15 – Sending Emails Using Python (SMTP)
 
 Learned how to send emails programmatically using Python's SMTP protocol.
@@ -100,9 +107,3 @@ Explored the `smtplib`, `ssl`, and `email.message` modules to create and send se
 Practiced configuring an SMTP server, authenticating users, and composing emails with subject and content.
 Strengthened my understanding of Python's email automation capabilities and real-world applications.
 
-## 📅 Day 14 – Modules in Python
-
-Learned how Python modules help organize and reuse code efficiently.
-Explored User-Defined Modules and Built-in Modules such as `math`, `os`, `sys`, and `random`.
-Practiced importing modules, using aliases, and accessing functions in different ways.
-Strengthened my understanding of modular programming and writing clean, maintainable Python code.
