@@ -121,3 +121,7 @@ On Day 16 of my Python learning journey, I explored the fundamentals of **Object
 ## 📅 Day 18 – Advanced OOP Concepts
 
 On Day 18 of my Python learning journey, I explored advanced Object-Oriented Programming (OOP) concepts, including the **`self` keyword**, **constructors (`__init__`)**, **access specifiers**, and **encapsulation**. I learned how objects are initialized using constructors, how the `self` keyword refers to the current object, and how public, protected, and private members control access to data. This session strengthened my understanding of writing secure, modular, and well-structured Python programs using OOP principles.
+
+## 📅 Day 19 – Inheritance in Python
+
+On Day 19 of my Python learning journey, I explored **Inheritance**, one of the core concepts of Object-Oriented Programming (OOP). I learned how child classes inherit properties and methods from parent classes, making code more reusable and organized. I also studied the different types of inheritance, including **Single, Multiple, Multilevel, Hierarchical, and Hybrid Inheritance**, along with the **`super()` function** for accessing parent class methods and constructors. This session strengthened my understanding of code reusability and building structured object-oriented applications.
