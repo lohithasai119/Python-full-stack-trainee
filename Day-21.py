@@ -122,19 +122,6 @@ finally:
 
 
 '''
-try:
-    num = int(input("Enter a num: "))
-    num_2 = int(input("Enter a num: "))
-    print(num/num_2)
-except ZeroDivisionError:
-    print('will get zerodivision error')
-except ValueError:
-    print('will get value error')
-else:
-    print('no error')
-finally:
-    print('end')
-
 
 
 
