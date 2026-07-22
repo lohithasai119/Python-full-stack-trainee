@@ -133,3 +133,7 @@ On Day 7 of my Python learning journey, I explored **Polymorphism** and **Data A
 ## 📅 Day 21 – Error Handling and Exception Handling
 
 On Day 21 of my Python learning journey, I explored **Error Handling and Exception Handling** in Python. I learned about common errors such as **SyntaxError, IndentationError, and ValueError**, and understood how to handle runtime errors using **try, except, else, and finally** blocks. I also practiced handling specific exceptions like **ValueError** and **ZeroDivisionError**. This session strengthened my understanding of writing robust and user-friendly Python programs by preventing unexpected crashes and managing errors effectively.
+
+## 📅 Day 22 – File Handling in Python
+
+On Day 22 of my Python learning journey, I explored **File Handling** in Python and learned how to create, read, write, and append data to files. I studied two ways of opening files using **`open()`** and the **`with` keyword**, and practiced different file modes such as **`r` (read), `w` (write), `a` (append), and `x` (create)**. I also learned how to use file handling methods like **`write()`**, **`read()`**, **`readline()`**, and **`readlines()`**. This session strengthened my understanding of storing and managing data permanently using files in Python.
