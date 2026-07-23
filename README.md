@@ -137,3 +137,7 @@ On Day 21 of my Python learning journey, I explored **Error Handling and Excepti
 ## 📅 Day 22 – File Handling in Python
 
 On Day 22 of my Python learning journey, I explored **File Handling** in Python and learned how to create, read, write, and append data to files. I studied two ways of opening files using **`open()`** and the **`with` keyword**, and practiced different file modes such as **`r` (read), `w` (write), `a` (append), and `x` (create)**. I also learned how to use file handling methods like **`write()`**, **`read()`**, **`readline()`**, and **`readlines()`**. This session strengthened my understanding of storing and managing data permanently using files in Python.
+
+## 📅 Day 23 – Regular Expressions (RegEx)
+
+On Day 23 of my Python learning journey, I explored **Regular Expressions (RegEx)** and learned how they are used for pattern searching and text processing in Python using the **`re` module**. I practiced important RegEx functions such as **`findall()`**, **`search()`**, **`split()`**, **`sub()`**, and **`fullmatch()`**, and understood the usage of metacharacters like **`[]`**, **`^`**, **`$`**, **`.`**, **`*`**, **`+`**, and **`{}`**. This session strengthened my understanding of searching, validating, and manipulating text efficiently using pattern matching techniques.
